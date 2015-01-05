@@ -4,9 +4,9 @@
 package br.com.synchro.git;
 
 /**
- * @author $author
- * @version $revision
- * @create $date
+ * 
+ * @author cvs
+ * @create Dec 23, 2014
  */
 public class GitRemoteTest {
 
