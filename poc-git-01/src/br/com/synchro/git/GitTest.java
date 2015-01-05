@@ -12,7 +12,7 @@ public class GitTest {
 
     public static void main(final String[] args) {
 
-	System.out.println("Git tutorial... commiting...");
+	System.out.println("Git tutorial... commiting...2");
 
     }
 }
