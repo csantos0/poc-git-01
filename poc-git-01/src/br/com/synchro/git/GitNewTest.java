@@ -10,6 +10,6 @@ package br.com.synchro.git;
 public class GitNewTest {
 
     public static void main(final String[] args) {
-	System.out.println("Git New Test...");
+	System.out.println("Git New Test...2");
     }
 }
