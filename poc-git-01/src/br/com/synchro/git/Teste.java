@@ -1,10 +1,5 @@
-testandooooooooooooooooo
+package br.com.synchro.git;
 
-synchro
+public class Teste {
 
-fdfd
-fd
-fd
-fd
-f
-dfd
+}
