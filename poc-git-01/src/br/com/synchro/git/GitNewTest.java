@@ -11,5 +11,6 @@ public class GitNewTest {
 
     public static void main(final String[] args) {
 	System.out.println("Git New Test...2");
+	System.out.println("essa e a alteracao para a branch master");
     }
 }
